@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Samet 👋
 
-<!--
-**sametcifci/sametcifci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer focused on Backend Development, Data Automation, and Software Architecture.
 
-Here are some ideas to get you started:
+```java
+public class AboutMe {
+    private String name = "Samet Çifçi";
+    private String role = "Junior Software Developer";
+    private String location = "Gaziantep, Turkey";
+    private String[] mainStack = {"Java", "C#", "SQL", "VBA"};
+    
+    public String getGoal() {
+        return "Building scalable backend systems and efficient automation tools.";
+    }
+}
+# Hi there, I'm Samet 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Junior Software Developer focused on Backend Development, Data Automation, and Software Architecture.
+
+```java
+public class AboutMe {
+    private String name = "Samet Çiftçi";
+    private String role = "Junior Software Developer";
+    private String location = "Gaziantep, Turkey";
+    private String[] mainStack = {"Java", "C#", "SQL", "VBA"};
+    
+    public String getGoal() {
+        return "Building scalable backend systems and efficient automation tools.";
+    }
+}
